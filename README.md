@@ -10,7 +10,11 @@ No. Of Columns : 54
 
 
 Results:
+
+
 Parameters for Maximum Accuracy over 1000 iterations and 10 samples:
+
+
 {'C': 3, 'degree': 1, 'gamma': 0.1, 'kernel': 'rbf'}
 
 
